@@ -3,15 +3,16 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #373c3f !default;
-$text-color: #eaeaea !default;
-$primary-color: #7f22fd !default;
+
+$background-color: #373c3f !default; // 배경 색상
+$text-color: #eaeaea !default; //글자 색상
+$primary-color: #7f22fd !default; //주 색상
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: #4D5357 !default;
 $code-background-color-dark: #3F4447 !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
 $footer-background-color: mix(#000, $background-color, 30%) !default;
-$link-color: #96f2d7 !default;
+$link-color: #96f2d7 !default; //링크 색상
 $link-color-hover: #7f22fd !default;
 $link-color-visited: mix(#000, #96f2d7, 25%) !default;
 $masthead-link-color: $text-color !default;
